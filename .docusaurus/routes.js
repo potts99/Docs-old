@@ -17,12 +17,6 @@ export default [
   
 },
 {
-  path: '/blog/hello-world',
-  component: ComponentCreator('/blog/hello-world'),
-  exact: true,
-  
-},
-{
   path: '/blog/hola',
   component: ComponentCreator('/blog/hola'),
   exact: true,
@@ -41,26 +35,8 @@ export default [
   
 },
 {
-  path: '/blog/tags/facebook',
-  component: ComponentCreator('/blog/tags/facebook'),
-  exact: true,
-  
-},
-{
-  path: '/blog/tags/hello',
-  component: ComponentCreator('/blog/tags/hello'),
-  exact: true,
-  
-},
-{
   path: '/blog/tags/hola',
   component: ComponentCreator('/blog/tags/hola'),
-  exact: true,
-  
-},
-{
-  path: '/blog/welcome',
-  component: ComponentCreator('/blog/welcome'),
   exact: true,
   
 },
@@ -72,6 +48,18 @@ export default [
 {
   path: '/docs/gulp',
   component: ComponentCreator('/docs/gulp'),
+  exact: true,
+  
+},
+{
+  path: '/docs/html-forms',
+  component: ComponentCreator('/docs/html-forms'),
+  exact: true,
+  
+},
+{
+  path: '/docs/html-fund',
+  component: ComponentCreator('/docs/html-fund'),
   exact: true,
   
 },

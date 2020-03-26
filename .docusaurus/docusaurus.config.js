@@ -36,7 +36,7 @@ export default {
           "items": [
             {
               "label": "Style Guide",
-              "to": "docs/doc1"
+              "to": "docs/style"
             }
           ]
         },

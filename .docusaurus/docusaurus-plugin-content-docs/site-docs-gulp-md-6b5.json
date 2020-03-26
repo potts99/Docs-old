@@ -9,5 +9,9 @@
   "previous": {
     "title": "Powered by MDX",
     "permalink": "/docs/mdx"
+  },
+  "next": {
+    "title": "Fundamentals of HTML",
+    "permalink": "/docs/html-fund"
   }
 }

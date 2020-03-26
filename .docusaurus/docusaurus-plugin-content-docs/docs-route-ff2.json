@@ -33,11 +33,29 @@
             "href": "/docs/gulp"
           }
         ]
+      },
+      {
+        "type": "category",
+        "label": "HTML5",
+        "items": [
+          {
+            "type": "link",
+            "label": "Fundamentals of HTML",
+            "href": "/docs/html-fund"
+          },
+          {
+            "type": "link",
+            "label": "HTML forms",
+            "href": "/docs/html-forms"
+          }
+        ]
       }
     ]
   },
   "permalinkToSidebar": {
     "/docs/gulp": "someSidebar",
+    "/docs/html-forms": "someSidebar",
+    "/docs/html-fund": "someSidebar",
     "/docs/mdx": "someSidebar",
     "/docs/style": "someSidebar"
   }
