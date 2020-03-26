@@ -25,7 +25,8 @@ export default {
           "href": "https://github.com/facebook/docusaurus",
           "label": "GitHub",
           "position": "right"
-        }
+        },
+        {}
       ]
     },
     "footer": {
