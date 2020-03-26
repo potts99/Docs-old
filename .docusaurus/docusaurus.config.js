@@ -3,6 +3,12 @@ export default {
   "themes": [],
   "customFields": {},
   "themeConfig": {
+    "algolia": {
+      "appId": "app-id",
+      "apiKey": "api-key",
+      "indexName": "index-name",
+      "algoliaOptions": {}
+    },
     "navbar": {
       "title": "Discite",
       "logo": {
@@ -26,7 +32,9 @@ export default {
           "label": "GitHub",
           "position": "right"
         },
-        {}
+        {
+          "search": true
+        }
       ]
     },
     "footer": {
@@ -84,7 +92,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/jack/Documents/GitHub/Docs/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
+          "editUrl": "https://github.com/jwandrews99/Docs/edit/master/docs"
         },
         "theme": {
           "customCss": "/Users/jack/Documents/GitHub/Docs/src/css/custom.css"

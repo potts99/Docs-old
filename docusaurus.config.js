@@ -7,6 +7,12 @@ module.exports = {
   organizationName: 'Discite', // Usually your GitHub org/user name.
   projectName: 'Discites Docs', // Usually your repo name.
   themeConfig: {
+    algolia: {
+      appId: 'app-id',
+      apiKey: 'api-key',
+      indexName: 'index-name',
+      algoliaOptions: {}, // Optional, if provided by Algolia
+        },
     navbar: {
       title: 'Discite',
       logo: {
@@ -27,7 +33,7 @@ module.exports = {
           position: 'right',
         },
         {
-
+          search: true
         },
       ],
     },
@@ -80,7 +86,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/jwandrews99/Docs/edit/master/docs'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

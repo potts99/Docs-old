@@ -4,7 +4,7 @@
   "description": "An overview of forms in HTML",
   "source": "@site/docs/html-forms.md",
   "permalink": "/docs/html-forms",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/html-forms.md",
+  "editUrl": "https://github.com/jwandrews99/Docs/edit/master/docs/docs/html-forms.md",
   "sidebar": "someSidebar",
   "previous": {
     "title": "Fundamentals of HTML",

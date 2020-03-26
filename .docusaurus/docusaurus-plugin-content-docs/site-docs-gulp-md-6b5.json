@@ -4,7 +4,7 @@
   "description": "# Why does this help",
   "source": "@site/docs/gulp.md",
   "permalink": "/docs/gulp",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/gulp.md",
+  "editUrl": "https://github.com/jwandrews99/Docs/edit/master/docs/docs/gulp.md",
   "sidebar": "someSidebar",
   "previous": {
     "title": "Powered by MDX",
