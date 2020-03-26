@@ -1,0 +1,13 @@
+{
+  "id": "gulp",
+  "title": "Using Gulp.js to automate",
+  "description": "# Why does this help",
+  "source": "@site/docs/gulp.md",
+  "permalink": "/docs/gulp",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/gulp.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Powered by MDX",
+    "permalink": "/docs/mdx"
+  }
+}

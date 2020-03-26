@@ -9,5 +9,9 @@
   "previous": {
     "title": "Style Guide",
     "permalink": "/docs/style"
+  },
+  "next": {
+    "title": "Using Gulp.js to automate",
+    "permalink": "/docs/gulp"
   }
 }

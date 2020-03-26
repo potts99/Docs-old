@@ -70,6 +70,12 @@ export default [
   
   routes: [
 {
+  path: '/docs/gulp',
+  component: ComponentCreator('/docs/gulp'),
+  exact: true,
+  
+},
+{
   path: '/docs/mdx',
   component: ComponentCreator('/docs/mdx'),
   exact: true,

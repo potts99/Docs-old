@@ -12,6 +12,7 @@ export default {
   'content---blog-holabdd-150': [() => import(/* webpackChunkName: 'content---blog-holabdd-150' */ "@site/blog/2019-05-28-hola.md"), "@site/blog/2019-05-28-hola.md", require.resolveWeak("@site/blog/2019-05-28-hola.md")],
   'content---blog-welcome-286-e55': [() => import(/* webpackChunkName: 'content---blog-welcome-286-e55' */ "@site/blog/2019-05-30-welcome.md"), "@site/blog/2019-05-30-welcome.md", require.resolveWeak("@site/blog/2019-05-30-welcome.md")],
   'content---blogaf-1-856': [() => import(/* webpackChunkName: 'content---blogaf-1-856' */ "@site/blog/2019-05-30-welcome.md?truncated=true"), "@site/blog/2019-05-30-welcome.md?truncated=true", require.resolveWeak("@site/blog/2019-05-30-welcome.md?truncated=true")],
+  'content---docs-gulp-6-b-5-4bb': [() => import(/* webpackChunkName: 'content---docs-gulp-6-b-5-4bb' */ "@site/docs/gulp.md"), "@site/docs/gulp.md", require.resolveWeak("@site/docs/gulp.md")],
   'content---docs-mdxce-3-7d1': [() => import(/* webpackChunkName: 'content---docs-mdxce-3-7d1' */ "@site/docs/mdx.md"), "@site/docs/mdx.md", require.resolveWeak("@site/docs/mdx.md")],
   'content---docs-style-6-b-8-ef4': [() => import(/* webpackChunkName: 'content---docs-style-6-b-8-ef4' */ "@site/docs/style.md"), "@site/docs/style.md", require.resolveWeak("@site/docs/style.md")],
   'docsMetadata---docs-route-20-a-f24': [() => import(/* webpackChunkName: 'docsMetadata---docs-route-20-a-f24' */ "~docs/docs-route-ff2.json"), "~docs/docs-route-ff2.json", require.resolveWeak("~docs/docs-route-ff2.json")],
