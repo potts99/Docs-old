@@ -14,6 +14,7 @@ export default {
   'content---blogaf-1-856': [() => import(/* webpackChunkName: 'content---blogaf-1-856' */ "@site/blog/2019-05-30-welcome.md?truncated=true"), "@site/blog/2019-05-30-welcome.md?truncated=true", require.resolveWeak("@site/blog/2019-05-30-welcome.md?truncated=true")],
   'content---docs-gulp-6-b-5-4bb': [() => import(/* webpackChunkName: 'content---docs-gulp-6-b-5-4bb' */ "@site/docs/gulp.md"), "@site/docs/gulp.md", require.resolveWeak("@site/docs/gulp.md")],
   'content---docs-mdxce-3-7d1': [() => import(/* webpackChunkName: 'content---docs-mdxce-3-7d1' */ "@site/docs/mdx.md"), "@site/docs/mdx.md", require.resolveWeak("@site/docs/mdx.md")],
+  'content---docs-start-98-c-3bd': [() => import(/* webpackChunkName: 'content---docs-start-98-c-3bd' */ "@site/docs/start.md"), "@site/docs/start.md", require.resolveWeak("@site/docs/start.md")],
   'content---docs-style-6-b-8-ef4': [() => import(/* webpackChunkName: 'content---docs-style-6-b-8-ef4' */ "@site/docs/style.md"), "@site/docs/style.md", require.resolveWeak("@site/docs/style.md")],
   'docsMetadata---docs-route-20-a-f24': [() => import(/* webpackChunkName: 'docsMetadata---docs-route-20-a-f24' */ "~docs/docs-route-ff2.json"), "~docs/docs-route-ff2.json", require.resolveWeak("~docs/docs-route-ff2.json")],
   'metadata---blog-tags-docusaurus-6-ca-f43': [() => import(/* webpackChunkName: 'metadata---blog-tags-docusaurus-6-ca-f43' */ "~blog/blog-tags-docusaurus-0e0.json"), "~blog/blog-tags-docusaurus-0e0.json", require.resolveWeak("~blog/blog-tags-docusaurus-0e0.json")],

@@ -1,0 +1,8 @@
+{
+  "id": "start",
+  "title": "Getting started with Discite Docs",
+  "description": "",
+  "source": "@site/docs/start.md",
+  "permalink": "/docs/start",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/start.md"
+}

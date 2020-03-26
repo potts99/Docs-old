@@ -82,6 +82,12 @@ export default [
   
 },
 {
+  path: '/docs/start',
+  component: ComponentCreator('/docs/start'),
+  exact: true,
+  
+},
+{
   path: '/docs/style',
   component: ComponentCreator('/docs/style'),
   exact: true,
