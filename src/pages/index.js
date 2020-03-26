@@ -12,8 +12,9 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Docusaurus has been designed for quick and easy use, this was one of the most
+        appealing reasons why we chose this. <br></br>
+        Having the ability to easily create documents in Markdown was an amazing feature to have.
       </>
     ),
   },

@@ -70,26 +70,14 @@ export default [
   
   routes: [
 {
-  path: '/docs/doc1',
-  component: ComponentCreator('/docs/doc1'),
-  exact: true,
-  
-},
-{
-  path: '/docs/doc2',
-  component: ComponentCreator('/docs/doc2'),
-  exact: true,
-  
-},
-{
-  path: '/docs/doc3',
-  component: ComponentCreator('/docs/doc3'),
-  exact: true,
-  
-},
-{
   path: '/docs/mdx',
   component: ComponentCreator('/docs/mdx'),
+  exact: true,
+  
+},
+{
+  path: '/docs/style',
+  component: ComponentCreator('/docs/style'),
   exact: true,
   
 }],

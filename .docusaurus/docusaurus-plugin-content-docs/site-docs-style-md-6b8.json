@@ -1,0 +1,14 @@
+{
+  "id": "style",
+  "title": "Style Guide",
+  "description": "You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).",
+  "source": "@site/docs/style.md",
+  "permalink": "/docs/style",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/style.md",
+  "sidebar_label": "Style Guide",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Powered by MDX",
+    "permalink": "/docs/mdx"
+  }
+}

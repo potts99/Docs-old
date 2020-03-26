@@ -15,7 +15,7 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/doc1',
+          to: 'docs/style',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
@@ -32,15 +32,11 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Popular Docs',
           items: [
             {
               label: 'Style Guide',
               to: 'docs/doc1',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2',
             },
           ],
         },
@@ -52,8 +48,8 @@ module.exports = {
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Docusaurus Github',
+              href: 'https://github.com/facebook/docusaurus',
             },
           ],
         },
@@ -66,16 +62,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: '',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} The Docs Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} The Docs Project, by Discite. Built with Docusaurus.`,
     },
   },
   presets: [

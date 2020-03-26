@@ -8,17 +8,7 @@
           {
             "type": "link",
             "label": "Style Guide",
-            "href": "/docs/doc1"
-          },
-          {
-            "type": "link",
-            "label": "Document Number 2",
-            "href": "/docs/doc2"
-          },
-          {
-            "type": "link",
-            "label": "This is Document Number 3",
-            "href": "/docs/doc3"
+            "href": "/docs/style"
           }
         ]
       },
@@ -36,9 +26,7 @@
     ]
   },
   "permalinkToSidebar": {
-    "/docs/doc1": "someSidebar",
-    "/docs/doc2": "someSidebar",
-    "/docs/doc3": "someSidebar",
-    "/docs/mdx": "someSidebar"
+    "/docs/mdx": "someSidebar",
+    "/docs/style": "someSidebar"
   }
 }
