@@ -80,7 +80,7 @@ export default {
   },
   "title": "Discites Docs",
   "tagline": "The home of documentation",
-  "url": "/",
+  "url": "https://discite-docs.netlify.com/",
   "baseUrl": "/",
   "favicon": "img/favicon.ico",
   "organizationName": "Discite",
