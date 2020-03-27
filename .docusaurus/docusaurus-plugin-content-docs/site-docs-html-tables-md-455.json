@@ -1,0 +1,12 @@
+{
+  "id": "html/html-tables",
+  "title": "HTML Tables",
+  "description": "## Creating a Table",
+  "source": "@site/docs/html/tables.md",
+  "permalink": "/docs/html/html-tables",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "HTML forms",
+    "permalink": "/docs/html/html-forms"
+  }
+}

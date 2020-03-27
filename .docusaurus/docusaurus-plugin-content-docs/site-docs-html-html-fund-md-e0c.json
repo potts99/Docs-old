@@ -4,10 +4,13 @@
   "description": "## The basics of Html",
   "source": "@site/docs/html/html-fund.md",
   "permalink": "/docs/html/html-fund",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/html/html-fund.md",
   "sidebar": "someSidebar",
   "previous": {
     "title": "Using Gulp.js to automate",
-    "permalink": "/docs/gulp"
+    "permalink": "/docs/gulp/gulp"
+  },
+  "next": {
+    "title": "HTML forms",
+    "permalink": "/docs/html/html-forms"
   }
 }

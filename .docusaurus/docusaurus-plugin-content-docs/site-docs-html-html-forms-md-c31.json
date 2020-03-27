@@ -1,8 +1,16 @@
 {
   "id": "html/html-forms",
-  "title": "html-forms",
-  "description": "",
+  "title": "HTML forms",
+  "description": "An overview of forms in HTML",
   "source": "@site/docs/html/html-forms.md",
   "permalink": "/docs/html/html-forms",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/html/html-forms.md"
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Fundamentals of HTML",
+    "permalink": "/docs/html/html-fund"
+  },
+  "next": {
+    "title": "HTML Tables",
+    "permalink": "/docs/html/html-tables"
+  }
 }
