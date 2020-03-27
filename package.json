@@ -11,8 +11,10 @@
   "dependencies": {
     "@docusaurus/core": "^2.0.0-alpha.48",
     "@docusaurus/preset-classic": "^2.0.0-alpha.48",
+    "bootstrap": "^4.4.1",
     "classnames": "^2.2.6",
     "react": "^16.8.4",
+    "react-bootstrap": "^1.0.0",
     "react-dom": "^16.8.4"
   },
   "browserslist": {

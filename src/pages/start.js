@@ -6,6 +6,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
+
 function Start() {
     const context = useDocusaurusContext();
     const {siteConfig = {}} = context;
@@ -17,11 +18,10 @@ function Start() {
             <div className="container">
                 <h1 className="hero__title">Welcome to Discite Docs</h1>
                 <p className="hero__subtitle">Choose a Language to get started on!</p>
-
             </div>
         </header>
         <main>
-
+        
         </main>
         </Layout>
     );
