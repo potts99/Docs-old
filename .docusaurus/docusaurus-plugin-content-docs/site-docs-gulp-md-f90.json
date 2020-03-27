@@ -1,0 +1,17 @@
+{
+  "id": "gulp",
+  "title": "Using Gulp.js to automate",
+  "description": "# Why does this help\r",
+  "source": "@site/docs\\gulp.md",
+  "permalink": "/docs/gulp",
+  "editUrl": "https://github.com/jwandrews99/Docs/edit/master/docs/docs/gulp.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Powered by MDX",
+    "permalink": "/docs/mdx"
+  },
+  "next": {
+    "title": "Fundamentals of HTML",
+    "permalink": "/docs/html-fund"
+  }
+}

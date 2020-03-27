@@ -1,0 +1,13 @@
+{
+  "id": "html-forms",
+  "title": "HTML forms",
+  "description": "An overview of forms in HTML\r",
+  "source": "@site/docs\\html-forms.md",
+  "permalink": "/docs/html-forms",
+  "editUrl": "https://github.com/jwandrews99/Docs/edit/master/docs/docs/html-forms.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Fundamentals of HTML",
+    "permalink": "/docs/html-fund"
+  }
+}
