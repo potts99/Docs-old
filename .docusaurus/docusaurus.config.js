@@ -23,7 +23,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/jwandrews99/Docs",
           "label": "GitHub",
           "position": "right"
         },
