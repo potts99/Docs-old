@@ -41,6 +41,12 @@ export default [
   
 },
 {
+  path: '/start',
+  component: ComponentCreator('/start'),
+  exact: true,
+  
+},
+{
   path: '/docs/:route',
   component: ComponentCreator('/docs/:route'),
   

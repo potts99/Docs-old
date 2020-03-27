@@ -37,6 +37,9 @@
     ],
     "metadata": "metadata---blog-tags-hola-31-d-e2f"
   },
+  "/start": {
+    "component": "component---site-src-pages-start-js-275-e7a"
+  },
   "/docs/:route": {
     "component": "component---theme-doc-page-1-be-9be",
     "docsMetadata": "docsMetadata---docs-route-20-a-f24"
@@ -47,7 +50,7 @@
   },
   "/docs/back-end/expressjs/express-routes": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-back-end-expressjs-routesf-27-249"
+    "content": "content---docs-back-end-expressjs-express-routesf-27-ef4"
   },
   "/docs/css/adva/box-method": {
     "component": "component---theme-doc-item-178-a40",
@@ -91,7 +94,7 @@
   },
   "/docs/html/html-tables": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-html-tables-11-a-468"
+    "content": "content---docs-html-html-tables-11-a-7cf"
   },
   "/docs/js/Bash/Bash Scripting": {
     "component": "component---theme-doc-item-178-a40",
