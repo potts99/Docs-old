@@ -17,6 +17,11 @@ export default {
       },
       "links": [
         {
+          "to": "start",
+          "label": "Getting Started",
+          "position": "left"
+        },
+        {
           "to": "docs/style",
           "activeBasePath": "docs",
           "label": "Docs",
