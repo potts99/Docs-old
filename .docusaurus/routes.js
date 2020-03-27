@@ -52,14 +52,14 @@ export default [
   
   routes: [
 {
-  path: '/docs/back-end/ExpressJS/express-routers',
-  component: ComponentCreator('/docs/back-end/ExpressJS/express-routers'),
+  path: '/docs/back-end/expressjs/express-routers',
+  component: ComponentCreator('/docs/back-end/expressjs/express-routers'),
   exact: true,
   
 },
 {
-  path: '/docs/back-end/ExpressJS/express-routes',
-  component: ComponentCreator('/docs/back-end/ExpressJS/express-routes'),
+  path: '/docs/back-end/expressjs/express-routes',
+  component: ComponentCreator('/docs/back-end/expressjs/express-routes'),
   exact: true,
   
 },
