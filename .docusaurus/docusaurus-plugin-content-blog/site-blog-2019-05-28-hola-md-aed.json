@@ -1,7 +1,7 @@
 {
   "permalink": "/blog/hola",
   "source": "@site/blog\\2019-05-28-hola.md",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+  "description": "",
   "date": "2019-05-28T00:00:00.000Z",
   "tags": [
     {
@@ -13,6 +13,6 @@
       "permalink": "/blog/tags/docusaurus"
     }
   ],
-  "title": "Hola",
+  "title": "Test",
   "truncated": false
 }

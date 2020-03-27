@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
+    title: <>Why we chose Docusaurus</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
@@ -19,22 +19,22 @@ const features = [
     ),
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>Our goal</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+       The goal is to create a site that is easy to maintain and update. Whilst also providing functionality to multiple devices.
+
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>MDX</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        All of our docs are created in Markdown, this makes creating or editing incredibily easy. <br></br>
+        Using MDX allows for Markdown to be seen in the browser. Making for easy reading for any user.
       </>
     ),
   },
@@ -60,7 +60,7 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
@@ -72,7 +72,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/start')}>
+              to={useBaseUrl('getting-started')}>
               Get Started
             </Link>
           </div>

@@ -1,4 +1,5 @@
 export default {
+  'component---site-src-pages-getting-started-js-665-a2f': [() => import(/* webpackChunkName: 'component---site-src-pages-getting-started-js-665-a2f' */ "@site/src\\pages\\getting-started.js"), "@site/src\\pages\\getting-started.js", require.resolveWeak("@site/src\\pages\\getting-started.js")],
   'component---site-src-pages-index-jsece-a18': [() => import(/* webpackChunkName: 'component---site-src-pages-index-jsece-a18' */ "@site/src\\pages\\index.js"), "@site/src\\pages\\index.js", require.resolveWeak("@site/src\\pages\\index.js")],
   'component---theme-blog-list-pagea-6-a-7ba': [() => import(/* webpackChunkName: 'component---theme-blog-list-pagea-6-a-7ba' */ "@theme/BlogListPage"), "@theme/BlogListPage", require.resolveWeak("@theme/BlogListPage")],
   'component---theme-blog-post-pageccc-cab': [() => import(/* webpackChunkName: 'component---theme-blog-post-pageccc-cab' */ "@theme/BlogPostPage"), "@theme/BlogPostPage", require.resolveWeak("@theme/BlogPostPage")],

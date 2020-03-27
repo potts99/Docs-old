@@ -41,6 +41,12 @@ export default [
   
 },
 {
+  path: '/getting-started',
+  component: ComponentCreator('/getting-started'),
+  exact: true,
+  
+},
+{
   path: '/docs/:route',
   component: ComponentCreator('/docs/:route'),
   
