@@ -8,9 +8,5 @@
   "previous": {
     "title": "HTML forms",
     "permalink": "/docs/html/html-forms"
-  },
-  "next": {
-    "title": "Express.JS() Routers",
-    "permalink": "/docs/back-end/expressjs/express-routers"
   }
 }

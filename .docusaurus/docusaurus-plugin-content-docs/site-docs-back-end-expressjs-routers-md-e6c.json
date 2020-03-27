@@ -3,14 +3,5 @@
   "title": "Express.JS() Routers",
   "description": "# This File Is Too Big!",
   "source": "@site/docs\\back-end\\expressjs\\Routers.md",
-  "permalink": "/docs/back-end/expressjs/express-routers",
-  "sidebar": "someSidebar",
-  "previous": {
-    "title": "HTML Tables",
-    "permalink": "/docs/html/html-tables"
-  },
-  "next": {
-    "title": "Routes in Express.JS()",
-    "permalink": "/docs/back-end/expressjs/express-routes"
-  }
+  "permalink": "/docs/back-end/expressjs/express-routers"
 }
