@@ -1,6 +1,7 @@
-# Tables
-
-## HTML Tables
+---
+id: html-tables
+title: HTML Tables
+---
 
 ## Creating a Table
 

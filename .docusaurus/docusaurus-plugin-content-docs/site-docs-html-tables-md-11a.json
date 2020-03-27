@@ -1,7 +1,16 @@
 {
-  "id": "html/tables",
-  "title": "tables",
-  "description": "# Tables",
+  "id": "html/html-tables",
+  "title": "HTML Tables",
+  "description": "## Creating a Table",
   "source": "@site/docs\\html\\tables.md",
-  "permalink": "/docs/html/tables"
+  "permalink": "/docs/html/html-tables",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "HTML forms",
+    "permalink": "/docs/html/html-forms"
+  },
+  "next": {
+    "title": "Express.JS() Routers",
+    "permalink": "/docs/back-end/expressjs/express-routers"
+  }
 }

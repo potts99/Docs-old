@@ -1,7 +1,7 @@
 {
-  "id": "back-end/ExpressJS/Routers",
-  "title": "Routers",
+  "id": "back-end/ExpressJS/express-routers",
+  "title": "ExpressJS() Routers",
   "description": "# This File Is Too Big!",
   "source": "@site/docs\\back-end\\ExpressJS\\Routers.md",
-  "permalink": "/docs/back-end/ExpressJS/Routers"
+  "permalink": "/docs/back-end/ExpressJS/express-routers"
 }

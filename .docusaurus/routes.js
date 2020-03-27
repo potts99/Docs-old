@@ -46,14 +46,14 @@ export default [
   
   routes: [
 {
-  path: '/docs/back-end/ExpressJS/Routers',
-  component: ComponentCreator('/docs/back-end/ExpressJS/Routers'),
+  path: '/docs/back-end/expressjs/express-routers',
+  component: ComponentCreator('/docs/back-end/expressjs/express-routers'),
   exact: true,
   
 },
 {
-  path: '/docs/back-end/ExpressJS/Routes',
-  component: ComponentCreator('/docs/back-end/ExpressJS/Routes'),
+  path: '/docs/back-end/expressjs/express-routes',
+  component: ComponentCreator('/docs/back-end/expressjs/express-routes'),
   exact: true,
   
 },
@@ -118,8 +118,8 @@ export default [
   
 },
 {
-  path: '/docs/html/tables',
-  component: ComponentCreator('/docs/html/tables'),
+  path: '/docs/html/html-tables',
+  component: ComponentCreator('/docs/html/html-tables'),
   exact: true,
   
 },

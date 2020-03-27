@@ -25,7 +25,7 @@
       },
       {
         "type": "category",
-        "label": "Builds",
+        "label": "Tools",
         "items": [
           {
             "type": "link",
@@ -47,15 +47,49 @@
             "type": "link",
             "label": "HTML forms",
             "href": "/docs/html/html-forms"
+          },
+          {
+            "type": "link",
+            "label": "HTML Tables",
+            "href": "/docs/html/html-tables"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "JavaScript",
+        "items": []
+      },
+      {
+        "type": "category",
+        "label": "Css",
+        "items": []
+      },
+      {
+        "type": "category",
+        "label": "Backend",
+        "items": [
+          {
+            "type": "link",
+            "label": "Express.JS() Routers",
+            "href": "/docs/back-end/expressjs/express-routers"
+          },
+          {
+            "type": "link",
+            "label": "Routes in Express.JS()",
+            "href": "/docs/back-end/expressjs/express-routes"
           }
         ]
       }
     ]
   },
   "permalinkToSidebar": {
+    "/docs/back-end/expressjs/express-routers": "someSidebar",
+    "/docs/back-end/expressjs/express-routes": "someSidebar",
     "/docs/gulp/gulp": "someSidebar",
     "/docs/html/html-forms": "someSidebar",
     "/docs/html/html-fund": "someSidebar",
+    "/docs/html/html-tables": "someSidebar",
     "/docs/mdx": "someSidebar",
     "/docs/style": "someSidebar"
   }

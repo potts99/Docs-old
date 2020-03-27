@@ -8,5 +8,9 @@
   "previous": {
     "title": "Fundamentals of HTML",
     "permalink": "/docs/html/html-fund"
+  },
+  "next": {
+    "title": "HTML Tables",
+    "permalink": "/docs/html/html-tables"
   }
 }
