@@ -21,9 +21,6 @@ function Start() {
             </div>
         </header>
         <main>
-<<<<<<< HEAD
-        
-=======
             <div className="container">
             <div class="row">
                 <div class="col col--6" style={{padding: "1em",}}>
@@ -107,7 +104,6 @@ function Start() {
                 </div>
             </div>
             </div>
->>>>>>> 2f5068014d6ea93e458b52ae038905539d7df336
         </main>
         </Layout>
     );
