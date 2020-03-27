@@ -4,7 +4,6 @@
   "description": "You can write JSX and use React components within your Markdown thanks to [MDX](https://mdxjs.com/).\r",
   "source": "@site/docs\\mdx.md",
   "permalink": "/docs/mdx",
-  "editUrl": "https://github.com/jwandrews99/Docs/edit/master/docs/docs/mdx.md",
   "sidebar": "someSidebar",
   "previous": {
     "title": "Style Guide",
@@ -12,6 +11,6 @@
   },
   "next": {
     "title": "Using Gulp.js to automate",
-    "permalink": "/docs/gulp"
+    "permalink": "/docs/gulp/gulp"
   }
 }

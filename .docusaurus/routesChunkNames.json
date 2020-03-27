@@ -41,21 +41,137 @@
     "component": "component---theme-doc-page-1-be-9be",
     "docsMetadata": "docsMetadata---docs-route-20-a-f24"
   },
-  "/docs/getting-started/introduction": {
+  "/docs/back-end/ExpressJS/Routers": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-getting-started-getting-started-4-cd-310"
+    "content": "content---docs-back-end-express-js-routerseaa-9f5"
   },
-  "/docs/gulp": {
+  "/docs/back-end/ExpressJS/Routes": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-gulpf-90-6f2"
+    "content": "content---docs-back-end-express-js-routes-20-f-b7a"
   },
-  "/docs/html-forms": {
+  "/docs/css/adva/box-method": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-html-forms-945-ec1"
+    "content": "content---docs-css-adva-box-methodc-63-07d"
   },
-  "/docs/html-fund": {
+  "/docs/css/adva/colors": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-html-fundfa-9-d8a"
+    "content": "content---docs-css-adva-colorsf-19-270"
+  },
+  "/docs/css/adva/display-and-positioning": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-css-adva-display-and-positioningcbf-071"
+  },
+  "/docs/css/adva/flexbox": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-css-adva-flexbox-767-46c"
+  },
+  "/docs/css/adva/media-queries": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-css-adva-media-queries-8-c-8-20e"
+  },
+  "/docs/css/adva/typography": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-css-adva-typography-1-b-1-fc9"
+  },
+  "/docs/css/fund/syntax-and-tips": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-css-fund-syntax-and-tipsce-9-ab0"
+  },
+  "/docs/gulp/gulp": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gulp-gulpf-1-f-3ef"
+  },
+  "/docs/html/html-forms": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-html-html-formsd-41-cbd"
+  },
+  "/docs/html/html-fund": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-html-html-fundaf-1-99a"
+  },
+  "/docs/html/tables": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-html-tables-11-a-468"
+  },
+  "/docs/js/Bash/Bash Scripting": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-bash-bash-scriptinge-0-f-83a"
+  },
+  "/docs/js/JS": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-js-488-cd8"
+  },
+  "/docs/js/adva/async-await": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-adva-async-awaitc-2-b-36c"
+  },
+  "/docs/js/adva/callbacks": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-adva-callbacks-091-419"
+  },
+  "/docs/js/adva/class": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-adva-class-837-095"
+  },
+  "/docs/js/adva/dom-events": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-adva-dom-eventsdfc-243"
+  },
+  "/docs/js/adva/handling-errors": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-adva-handling-errorsbb-0-202"
+  },
+  "/docs/js/adva/javascript": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-adva-javascriptdda-e77"
+  },
+  "/docs/js/adva/modules": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-adva-modules-6-fe-b1f"
+  },
+  "/docs/js/adva/promises": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-adva-promises-2-fb-af7"
+  },
+  "/docs/js/adva/script-and-dom": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-adva-script-and-dome-42-922"
+  },
+  "/docs/js/fund/conditionals": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-fund-conditionals-56-b-3c5"
+  },
+  "/docs/js/fund/functions": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-fund-functions-72-f-127"
+  },
+  "/docs/js/fund/getting-started": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-fund-getting-starteddf-6-de1"
+  },
+  "/docs/js/fund/variables": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-fund-variablesf-71-180"
+  },
+  "/docs/js/tech/arrays": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-tech-arrayscdb-75f"
+  },
+  "/docs/js/tech/iterators": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-tech-iteratorsad-1-7c9"
+  },
+  "/docs/js/tech/loops": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-tech-loops-459-e66"
+  },
+  "/docs/js/tech/objects": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-tech-objects-904-dcd"
+  },
+  "/docs/js/tech/scope": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-tech-scope-395-9f0"
   },
   "/docs/mdx": {
     "component": "component---theme-doc-item-178-a40",

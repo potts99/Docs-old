@@ -4,13 +4,8 @@
   "description": "You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).\r",
   "source": "@site/docs\\style.md",
   "permalink": "/docs/style",
-  "editUrl": "https://github.com/jwandrews99/Docs/edit/master/docs/docs/style.md",
   "sidebar_label": "Style Guide",
   "sidebar": "someSidebar",
-  "previous": {
-    "title": "Getting started with Docs",
-    "permalink": "/docs/getting-started/introduction"
-  },
   "next": {
     "title": "Powered by MDX",
     "permalink": "/docs/mdx"

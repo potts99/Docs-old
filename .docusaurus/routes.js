@@ -46,26 +46,200 @@ export default [
   
   routes: [
 {
-  path: '/docs/getting-started/introduction',
-  component: ComponentCreator('/docs/getting-started/introduction'),
+  path: '/docs/back-end/ExpressJS/Routers',
+  component: ComponentCreator('/docs/back-end/ExpressJS/Routers'),
   exact: true,
   
 },
 {
-  path: '/docs/gulp',
-  component: ComponentCreator('/docs/gulp'),
+  path: '/docs/back-end/ExpressJS/Routes',
+  component: ComponentCreator('/docs/back-end/ExpressJS/Routes'),
   exact: true,
   
 },
 {
-  path: '/docs/html-forms',
-  component: ComponentCreator('/docs/html-forms'),
+  path: '/docs/css/adva/box-method',
+  component: ComponentCreator('/docs/css/adva/box-method'),
   exact: true,
   
 },
 {
-  path: '/docs/html-fund',
-  component: ComponentCreator('/docs/html-fund'),
+  path: '/docs/css/adva/colors',
+  component: ComponentCreator('/docs/css/adva/colors'),
+  exact: true,
+  
+},
+{
+  path: '/docs/css/adva/display-and-positioning',
+  component: ComponentCreator('/docs/css/adva/display-and-positioning'),
+  exact: true,
+  
+},
+{
+  path: '/docs/css/adva/flexbox',
+  component: ComponentCreator('/docs/css/adva/flexbox'),
+  exact: true,
+  
+},
+{
+  path: '/docs/css/adva/media-queries',
+  component: ComponentCreator('/docs/css/adva/media-queries'),
+  exact: true,
+  
+},
+{
+  path: '/docs/css/adva/typography',
+  component: ComponentCreator('/docs/css/adva/typography'),
+  exact: true,
+  
+},
+{
+  path: '/docs/css/fund/syntax-and-tips',
+  component: ComponentCreator('/docs/css/fund/syntax-and-tips'),
+  exact: true,
+  
+},
+{
+  path: '/docs/gulp/gulp',
+  component: ComponentCreator('/docs/gulp/gulp'),
+  exact: true,
+  
+},
+{
+  path: '/docs/html/html-forms',
+  component: ComponentCreator('/docs/html/html-forms'),
+  exact: true,
+  
+},
+{
+  path: '/docs/html/html-fund',
+  component: ComponentCreator('/docs/html/html-fund'),
+  exact: true,
+  
+},
+{
+  path: '/docs/html/tables',
+  component: ComponentCreator('/docs/html/tables'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/Bash/Bash Scripting',
+  component: ComponentCreator('/docs/js/Bash/Bash Scripting'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/JS',
+  component: ComponentCreator('/docs/js/JS'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/adva/async-await',
+  component: ComponentCreator('/docs/js/adva/async-await'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/adva/callbacks',
+  component: ComponentCreator('/docs/js/adva/callbacks'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/adva/class',
+  component: ComponentCreator('/docs/js/adva/class'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/adva/dom-events',
+  component: ComponentCreator('/docs/js/adva/dom-events'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/adva/handling-errors',
+  component: ComponentCreator('/docs/js/adva/handling-errors'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/adva/javascript',
+  component: ComponentCreator('/docs/js/adva/javascript'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/adva/modules',
+  component: ComponentCreator('/docs/js/adva/modules'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/adva/promises',
+  component: ComponentCreator('/docs/js/adva/promises'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/adva/script-and-dom',
+  component: ComponentCreator('/docs/js/adva/script-and-dom'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/fund/conditionals',
+  component: ComponentCreator('/docs/js/fund/conditionals'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/fund/functions',
+  component: ComponentCreator('/docs/js/fund/functions'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/fund/getting-started',
+  component: ComponentCreator('/docs/js/fund/getting-started'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/fund/variables',
+  component: ComponentCreator('/docs/js/fund/variables'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/tech/arrays',
+  component: ComponentCreator('/docs/js/tech/arrays'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/tech/iterators',
+  component: ComponentCreator('/docs/js/tech/iterators'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/tech/loops',
+  component: ComponentCreator('/docs/js/tech/loops'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/tech/objects',
+  component: ComponentCreator('/docs/js/tech/objects'),
+  exact: true,
+  
+},
+{
+  path: '/docs/js/tech/scope',
+  component: ComponentCreator('/docs/js/tech/scope'),
   exact: true,
   
 },

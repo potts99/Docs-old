@@ -1,0 +1,12 @@
+{
+  "id": "html/html-forms",
+  "title": "HTML forms",
+  "description": "An overview of forms in HTML\r",
+  "source": "@site/docs\\html\\html-forms.md",
+  "permalink": "/docs/html/html-forms",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Fundamentals of HTML",
+    "permalink": "/docs/html/html-fund"
+  }
+}

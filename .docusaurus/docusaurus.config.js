@@ -83,7 +83,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\japot\\OneDrive\\Desktop\\Discite\\site\\Docs\\sidebars.js",
+          "sidebarPath": "C:\\Users\\japot\\OneDrive\\Desktop\\Discite\\site\\Docs\\sidebars.js"
         },
         "theme": {
           "customCss": "C:\\Users\\japot\\OneDrive\\Desktop\\Discite\\site\\Docs\\src\\css\\custom.css"

@@ -3,17 +3,6 @@
     "someSidebar": [
       {
         "type": "category",
-        "label": "GettingStarted",
-        "items": [
-          {
-            "type": "link",
-            "label": "Getting started with Docs",
-            "href": "/docs/getting-started/introduction"
-          }
-        ]
-      },
-      {
-        "type": "category",
         "label": "Docusaurus",
         "items": [
           {
@@ -41,7 +30,7 @@
           {
             "type": "link",
             "label": "Using Gulp.js to automate",
-            "href": "/docs/gulp"
+            "href": "/docs/gulp/gulp"
           }
         ]
       },
@@ -52,22 +41,21 @@
           {
             "type": "link",
             "label": "Fundamentals of HTML",
-            "href": "/docs/html-fund"
+            "href": "/docs/html/html-fund"
           },
           {
             "type": "link",
             "label": "HTML forms",
-            "href": "/docs/html-forms"
+            "href": "/docs/html/html-forms"
           }
         ]
       }
     ]
   },
   "permalinkToSidebar": {
-    "/docs/getting-started/introduction": "someSidebar",
-    "/docs/gulp": "someSidebar",
-    "/docs/html-forms": "someSidebar",
-    "/docs/html-fund": "someSidebar",
+    "/docs/gulp/gulp": "someSidebar",
+    "/docs/html/html-forms": "someSidebar",
+    "/docs/html/html-fund": "someSidebar",
     "/docs/mdx": "someSidebar",
     "/docs/style": "someSidebar"
   }

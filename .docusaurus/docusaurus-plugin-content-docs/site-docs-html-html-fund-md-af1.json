@@ -1,0 +1,16 @@
+{
+  "id": "html/html-fund",
+  "title": "Fundamentals of HTML",
+  "description": "## The basics of Html\r",
+  "source": "@site/docs\\html\\html-fund.md",
+  "permalink": "/docs/html/html-fund",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Using Gulp.js to automate",
+    "permalink": "/docs/gulp/gulp"
+  },
+  "next": {
+    "title": "HTML forms",
+    "permalink": "/docs/html/html-forms"
+  }
+}

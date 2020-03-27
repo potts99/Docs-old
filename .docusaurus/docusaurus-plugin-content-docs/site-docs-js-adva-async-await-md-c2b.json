@@ -1,0 +1,7 @@
+{
+  "id": "js/adva/async-await",
+  "title": "async-await",
+  "description": "Often in web development, we need to handle asynchronous actions— actions we can wait on while moving on to other tasks. We make requests to networks, databases, or any number of similar operations. JavaScript is non-blocking: instead of stopping the execution of code while it waits, JavaScript uses an event-loop which allows it to efficiently execute other tasks while it awaits the completion of these asynchronous actions.",
+  "source": "@site/docs\\js\\adva\\async-await.md",
+  "permalink": "/docs/js/adva/async-await"
+}
