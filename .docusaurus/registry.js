@@ -1,5 +1,4 @@
 export default {
-  'component---site-src-pages-getting-started-js-665-a2f': [() => import(/* webpackChunkName: 'component---site-src-pages-getting-started-js-665-a2f' */ "@site/src\\pages\\getting-started.js"), "@site/src\\pages\\getting-started.js", require.resolveWeak("@site/src\\pages\\getting-started.js")],
   'component---site-src-pages-index-jsece-a18': [() => import(/* webpackChunkName: 'component---site-src-pages-index-jsece-a18' */ "@site/src\\pages\\index.js"), "@site/src\\pages\\index.js", require.resolveWeak("@site/src\\pages\\index.js")],
   'component---theme-blog-list-pagea-6-a-7ba': [() => import(/* webpackChunkName: 'component---theme-blog-list-pagea-6-a-7ba' */ "@theme/BlogListPage"), "@theme/BlogListPage", require.resolveWeak("@theme/BlogListPage")],
   'component---theme-blog-post-pageccc-cab': [() => import(/* webpackChunkName: 'component---theme-blog-post-pageccc-cab' */ "@theme/BlogPostPage"), "@theme/BlogPostPage", require.resolveWeak("@theme/BlogPostPage")],
@@ -9,6 +8,7 @@ export default {
   'component---theme-doc-page-1-be-9be': [() => import(/* webpackChunkName: 'component---theme-doc-page-1-be-9be' */ "@theme/DocPage"), "@theme/DocPage", require.resolveWeak("@theme/DocPage")],
   'content---blog-273-7f3': [() => import(/* webpackChunkName: 'content---blog-273-7f3' */ "@site/blog\\2019-05-28-hola.md?truncated=true"), "@site/blog\\2019-05-28-hola.md?truncated=true", require.resolveWeak("@site/blog\\2019-05-28-hola.md?truncated=true")],
   'content---blog-holaaed-b12': [() => import(/* webpackChunkName: 'content---blog-holaaed-b12' */ "@site/blog\\2019-05-28-hola.md"), "@site/blog\\2019-05-28-hola.md", require.resolveWeak("@site/blog\\2019-05-28-hola.md")],
+  'content---docs-getting-started-getting-started-4-cd-310': [() => import(/* webpackChunkName: 'content---docs-getting-started-getting-started-4-cd-310' */ "@site/docs\\getting-started\\getting-started.md"), "@site/docs\\getting-started\\getting-started.md", require.resolveWeak("@site/docs\\getting-started\\getting-started.md")],
   'content---docs-gulpf-90-6f2': [() => import(/* webpackChunkName: 'content---docs-gulpf-90-6f2' */ "@site/docs\\gulp.md"), "@site/docs\\gulp.md", require.resolveWeak("@site/docs\\gulp.md")],
   'content---docs-html-forms-945-ec1': [() => import(/* webpackChunkName: 'content---docs-html-forms-945-ec1' */ "@site/docs\\html-forms.md"), "@site/docs\\html-forms.md", require.resolveWeak("@site/docs\\html-forms.md")],
   'content---docs-html-fundfa-9-d8a': [() => import(/* webpackChunkName: 'content---docs-html-fundfa-9-d8a' */ "@site/docs\\html-fund.md"), "@site/docs\\html-fund.md", require.resolveWeak("@site/docs\\html-fund.md")],

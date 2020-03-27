@@ -41,16 +41,16 @@ export default [
   
 },
 {
-  path: '/getting-started',
-  component: ComponentCreator('/getting-started'),
-  exact: true,
-  
-},
-{
   path: '/docs/:route',
   component: ComponentCreator('/docs/:route'),
   
   routes: [
+{
+  path: '/docs/getting-started/introduction',
+  component: ComponentCreator('/docs/getting-started/introduction'),
+  exact: true,
+  
+},
 {
   path: '/docs/gulp',
   component: ComponentCreator('/docs/gulp'),

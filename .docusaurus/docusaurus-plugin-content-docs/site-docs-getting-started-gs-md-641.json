@@ -1,0 +1,8 @@
+{
+  "id": "getting-started/getting-started",
+  "title": "Getting started with Docs",
+  "description": "",
+  "source": "@site/docs\\getting-started\\gs.md",
+  "permalink": "/docs/getting-started/getting-started",
+  "editUrl": "https://github.com/jwandrews99/Docs/edit/master/docs/docs/getting-started/gs.md"
+}

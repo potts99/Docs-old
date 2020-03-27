@@ -21,6 +21,11 @@ module.exports = {
       },
       links: [
         {
+          to: 'docs/getting-started/introduction',
+          label: 'Getting Started',
+          position: 'left'
+        },
+        {
           to: 'docs/style',
           activeBasePath: 'docs',
           label: 'Docs',
@@ -50,19 +55,6 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Docusaurus Github',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
-        {
           title: 'Social',
           items: [
             {
@@ -85,9 +77,6 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://github.com/jwandrews99/Docs/edit/master/docs'
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },

@@ -3,6 +3,17 @@
     "someSidebar": [
       {
         "type": "category",
+        "label": "GettingStarted",
+        "items": [
+          {
+            "type": "link",
+            "label": "Getting started with Docs",
+            "href": "/docs/getting-started/introduction"
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "Docusaurus",
         "items": [
           {
@@ -53,6 +64,7 @@
     ]
   },
   "permalinkToSidebar": {
+    "/docs/getting-started/introduction": "someSidebar",
     "/docs/gulp": "someSidebar",
     "/docs/html-forms": "someSidebar",
     "/docs/html-fund": "someSidebar",

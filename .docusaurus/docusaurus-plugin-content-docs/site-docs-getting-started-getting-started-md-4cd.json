@@ -1,0 +1,13 @@
+{
+  "id": "getting-started/introduction",
+  "title": "Getting started with Docs",
+  "description": "",
+  "source": "@site/docs\\getting-started\\getting-started.md",
+  "permalink": "/docs/getting-started/introduction",
+  "editUrl": "https://github.com/jwandrews99/Docs/edit/master/docs/docs/getting-started/getting-started.md",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Style Guide",
+    "permalink": "/docs/style"
+  }
+}

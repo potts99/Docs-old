@@ -17,6 +17,11 @@ export default {
       },
       "links": [
         {
+          "to": "docs/getting-started/introduction",
+          "label": "Getting Started",
+          "position": "left"
+        },
+        {
           "to": "docs/style",
           "activeBasePath": "docs",
           "label": "Docs",
@@ -50,19 +55,6 @@ export default {
           ]
         },
         {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Docusaurus Github",
-              "href": "https://github.com/facebook/docusaurus"
-            }
-          ]
-        },
-        {
           "title": "Social",
           "items": [
             {
@@ -92,7 +84,6 @@ export default {
       {
         "docs": {
           "sidebarPath": "C:\\Users\\japot\\OneDrive\\Desktop\\Discite\\site\\Docs\\sidebars.js",
-          "editUrl": "https://github.com/jwandrews99/Docs/edit/master/docs"
         },
         "theme": {
           "customCss": "C:\\Users\\japot\\OneDrive\\Desktop\\Discite\\site\\Docs\\src\\css\\custom.css"

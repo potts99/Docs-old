@@ -1,5 +1,6 @@
 module.exports = {
   someSidebar: {
+    GettingStarted: ['getting-started/introduction', ],
     Docusaurus: ['style',],
     Features: ['mdx'],
     Builds: ['gulp'],

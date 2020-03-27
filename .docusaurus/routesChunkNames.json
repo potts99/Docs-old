@@ -37,12 +37,13 @@
     ],
     "metadata": "metadata---blog-tags-hola-31-d-e2f"
   },
-  "/getting-started": {
-    "component": "component---site-src-pages-getting-started-js-665-a2f"
-  },
   "/docs/:route": {
     "component": "component---theme-doc-page-1-be-9be",
     "docsMetadata": "docsMetadata---docs-route-20-a-f24"
+  },
+  "/docs/getting-started/introduction": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-getting-started-4-cd-310"
   },
   "/docs/gulp": {
     "component": "component---theme-doc-item-178-a40",
