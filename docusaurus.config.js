@@ -71,7 +71,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: '',
+              href: 'https://github.com/jwandrews99',
             },
           ],
         },

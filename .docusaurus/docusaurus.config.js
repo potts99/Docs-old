@@ -71,7 +71,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": ""
+              "href": "https://github.com/jwandrews99"
             }
           ]
         }
