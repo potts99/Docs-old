@@ -1,5 +1,7 @@
-# functions
-
+---
+id: js_func
+title: Functions in JS
+---
 ## Javascript Functions
 
 A function is a reusable block of code that groups together a sequence of statements to perform a specific task.

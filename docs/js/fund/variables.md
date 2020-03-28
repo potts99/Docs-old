@@ -1,4 +1,7 @@
-# Variables
+---
+id: js_var
+title: Variables in JS
+---
 
 ## Fundamentals of Variables:
 

@@ -1,6 +1,7 @@
-# Getting Started
-
-## Getting Started
+---
+id: js_start
+title: Getting started with JS
+---
 
 ## The console
 

@@ -1,6 +1,7 @@
-# conditionals
-
-## Conditionals in js
+---
+id: js_cond
+title: Conditionals in JS
+---
 
 How to use if, else if, else, switch, and ternary syntax to control the flow of a program in JavaScript.  Explore how programs make decisions by evaluating conditions and introduce logic into code.
 

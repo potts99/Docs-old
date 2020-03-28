@@ -1,6 +1,7 @@
-# Syntax and tips
-
-## CSS Notes
+---
+id: css
+title: CSS syntax
+---
 
 ## Synatx and their meaning
 

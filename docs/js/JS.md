@@ -1,3 +1,8 @@
+---
+id: js_freecode
+title: FreecodeCamp Js notes 
+---
+
 # FreeCodeCamp.org 
 https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLTFW0aa-32LYNEOEMsrycVfEBn8FQPrBW&index=15&t=0s
 
