@@ -1,7 +1,7 @@
 {
-  "id": "js/fund/getting-started",
-  "title": "getting-started",
-  "description": "# Getting Started",
+  "id": "js/fund/js_start",
+  "title": "Getting started with JS",
+  "description": "## The console",
   "source": "@site/docs\\js\\fund\\getting-started.md",
-  "permalink": "/docs/js/fund/getting-started"
+  "permalink": "/docs/js/fund/js_start"
 }

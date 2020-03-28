@@ -1,7 +1,7 @@
 {
-  "id": "js/fund/conditionals",
-  "title": "conditionals",
-  "description": "# conditionals",
+  "id": "js/fund/js_cond",
+  "title": "Conditionals in JS",
+  "description": "How to use if, else if, else, switch, and ternary syntax to control the flow of a program in JavaScript.  Explore how programs make decisions by evaluating conditions and introduce logic into code.",
   "source": "@site/docs\\js\\fund\\conditionals.md",
-  "permalink": "/docs/js/fund/conditionals"
+  "permalink": "/docs/js/fund/js_cond"
 }

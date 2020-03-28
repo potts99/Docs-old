@@ -1,167 +1,167 @@
 {
   "/": {
-    "component": "c4f5d8e4"
+    "component": "component---site-src-pages-index-jsece-a18"
   },
   "/blog": {
-    "component": "a6aa9e1f",
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
     "items": [
       {
-        "content": "8e9f0a8a"
+        "content": "content---blog-273-7f3"
       }
     ],
-    "metadata": "bbb4ffb5"
+    "metadata": "metadata---blogbbb-5f9"
   },
   "/blog/hola": {
-    "component": "ccc49370",
-    "content": "bdd709f1"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "content": "content---blog-holaaed-b12"
   },
   "/blog/tags": {
-    "component": "01a85c17",
-    "tags": "8be5b89e"
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "tags": "tags---blog-tags-8-be-13d"
   },
   "/blog/tags/docusaurus": {
-    "component": "6875c492",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
     "items": [
       {
-        "content": "8e9f0a8a"
+        "content": "content---blog-273-7f3"
       }
     ],
-    "metadata": "6ca375e2"
+    "metadata": "metadata---blog-tags-docusaurus-6-ca-f43"
   },
   "/blog/tags/hola": {
-    "component": "6875c492",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
     "items": [
       {
-        "content": "8e9f0a8a"
+        "content": "content---blog-273-7f3"
       }
     ],
-    "metadata": "31d49d87"
+    "metadata": "metadata---blog-tags-hola-31-d-e2f"
   },
   "/start": {
-    "component": "4b5857c1"
+    "component": "component---site-src-pages-start-js-275-e7a"
   },
   "/docs/:route": {
-    "component": "1be78505",
-    "docsMetadata": "20ac7829"
+    "component": "component---theme-doc-page-1-be-9be",
+    "docsMetadata": "docsMetadata---docs-route-20-a-f24"
   },
   "/docs/Bash/Bash Scripting": {
-    "component": "17896441",
-    "content": "0bf5fe42"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bash-bash-scriptingd-94-aed"
   },
-  "/docs/back-end/ExpressJS/express-routers": {
-    "component": "17896441",
-    "content": "f87d8dbb"
+  "/docs/back-end/expressjs/express-routers": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-back-end-expressjs-express-routerse-6-c-ceb"
   },
-  "/docs/back-end/ExpressJS/express-routes": {
-    "component": "17896441",
-    "content": "8d1127f5"
+  "/docs/back-end/expressjs/express-routes": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-back-end-expressjs-express-routesf-27-ef4"
   },
   "/docs/css/adva/flexbox": {
-    "component": "17896441",
-    "content": "5946abd8"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-css-adva-flexbox-767-46c"
   },
   "/docs/css/adva/media-queries": {
-    "component": "17896441",
-    "content": "2550e1e5"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-css-adva-media-queries-8-c-8-20e"
   },
   "/docs/css/fund/css": {
-    "component": "17896441",
-    "content": "bb49333d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-css-fund-cssce-9-a0f"
   },
   "/docs/gulp/gulp": {
-    "component": "17896441",
-    "content": "87a907c7"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gulp-gulpf-1-f-3ef"
   },
   "/docs/html/html-forms": {
-    "component": "17896441",
-    "content": "c31697c6"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-html-html-formsd-41-cbd"
   },
   "/docs/html/html-fund": {
-    "component": "17896441",
-    "content": "e0ce1d4c"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-html-html-fundaf-1-99a"
   },
   "/docs/html/html-tables": {
-    "component": "17896441",
-    "content": "45555d68"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-html-html-tables-11-a-7cf"
   },
   "/docs/js/adva/async-await": {
-    "component": "17896441",
-    "content": "ff376efe"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-adva-async-awaitc-2-b-36c"
   },
   "/docs/js/adva/callbacks": {
-    "component": "17896441",
-    "content": "f368fa7a"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-adva-callbacks-091-419"
   },
   "/docs/js/adva/class": {
-    "component": "17896441",
-    "content": "ce7b0902"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-adva-class-837-095"
   },
   "/docs/js/adva/dom-events": {
-    "component": "17896441",
-    "content": "fe119e07"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-adva-dom-eventsdfc-243"
   },
   "/docs/js/adva/handling-errors": {
-    "component": "17896441",
-    "content": "3f92220d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-adva-handling-errorsbb-0-202"
   },
   "/docs/js/adva/javascript": {
-    "component": "17896441",
-    "content": "2537ca0d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-adva-javascriptdda-e77"
   },
   "/docs/js/adva/modules": {
-    "component": "17896441",
-    "content": "f5cb9d75"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-adva-modules-6-fe-b1f"
   },
   "/docs/js/adva/promises": {
-    "component": "17896441",
-    "content": "eb55f646"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-adva-promises-2-fb-af7"
   },
   "/docs/js/adva/script-and-dom": {
-    "component": "17896441",
-    "content": "a9b9ec29"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-adva-script-and-dome-42-922"
   },
   "/docs/js/fund/js_cond": {
-    "component": "17896441",
-    "content": "c24397a1"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-fund-js-cond-56-b-264"
   },
   "/docs/js/fund/js_func": {
-    "component": "17896441",
-    "content": "ac0b760d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-fund-js-func-72-f-689"
   },
   "/docs/js/fund/js_start": {
-    "component": "17896441",
-    "content": "89d65e1d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-fund-js-startdf-6-2a4"
   },
   "/docs/js/fund/js_var": {
-    "component": "17896441",
-    "content": "0531f9ac"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-fund-js-varf-71-c3b"
   },
   "/docs/js/js_freecode": {
-    "component": "17896441",
-    "content": "40cef89d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-js-freecode-488-150"
   },
   "/docs/js/tech/iterators": {
-    "component": "17896441",
-    "content": "e7b35711"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-tech-iteratorsad-1-7c9"
   },
   "/docs/js/tech/loops": {
-    "component": "17896441",
-    "content": "1dfa3b6d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-tech-loops-459-e66"
   },
   "/docs/js/tech/scope": {
-    "component": "17896441",
-    "content": "28b21b88"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-js-tech-scope-395-9f0"
   },
   "/docs/mdx": {
-    "component": "17896441",
-    "content": "ce3e42ad"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-mdx-45-a-26c"
   },
   "/docs/start": {
-    "component": "17896441",
-    "content": "98ce8162"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-start-619-b67"
   },
   "/docs/style": {
-    "component": "17896441",
-    "content": "6b839bb6"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-stylec-98-d88"
   }
 }

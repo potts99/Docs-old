@@ -78,10 +78,10 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/jack/Documents/GitHub/Docs/sidebars.js"
+          "sidebarPath": "C:\\Users\\japot\\OneDrive\\Desktop\\Discite\\site\\Docs\\sidebars.js"
         },
         "theme": {
-          "customCss": "/Users/jack/Documents/GitHub/Docs/src/css/custom.css"
+          "customCss": "C:\\Users\\japot\\OneDrive\\Desktop\\Discite\\site\\Docs\\src\\css\\custom.css"
         }
       }
     ]
