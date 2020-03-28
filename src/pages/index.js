@@ -5,6 +5,10 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
+import cogoToast from 'cogo-toast';
+import Typist from 'react-typist';
+
+
 
 const features = [
   {
@@ -58,6 +62,11 @@ function Feature({imageUrl, title, description, button}) {
 function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
+  const { hide } = cogoToast.info('Welcome, please bare in mind this is currently in testing', {
+    onClick: () => {
+      hide();
+    },
+  });
   return (
     <Layout
       title={`${siteConfig.title}`}
@@ -65,7 +74,17 @@ function Home() {
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <p className="hero__subtitle">
+          <Typist>
+          <span>Documentation.</span>
+          <Typist.Backspace count={14} delay={400} />
+          <span>Snippets.</span>
+          <Typist.Backspace count={9} delay={400} />
+          <span>and much more!</span>
+          <Typist.Backspace count={15} delay={400} />
+          <span>Documentation, Snippets and some examples! Check us out! </span>
+          </Typist>
+          </p>
           <div className={styles.buttons}>
             <Link
               className={classnames(
