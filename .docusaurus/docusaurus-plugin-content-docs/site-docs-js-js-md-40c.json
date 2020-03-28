@@ -1,7 +1,7 @@
 {
-  "id": "js/JS",
-  "title": "JS",
+  "id": "js/js_freecode",
+  "title": "FreecodeCamp Js notes",
   "description": "# FreeCodeCamp.org ",
   "source": "@site/docs/js/JS.md",
-  "permalink": "/docs/js/JS"
+  "permalink": "/docs/js/js_freecode"
 }

@@ -1,7 +1,7 @@
 {
-  "id": "js/fund/functions",
-  "title": "functions",
-  "description": "# functions",
+  "id": "js/fund/js_func",
+  "title": "Functions in JS",
+  "description": "## Javascript Functions",
   "source": "@site/docs/js/fund/functions.md",
-  "permalink": "/docs/js/fund/functions"
+  "permalink": "/docs/js/fund/js_func"
 }

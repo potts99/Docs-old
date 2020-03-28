@@ -52,32 +52,20 @@ export default [
   
   routes: [
 {
-  path: '/docs/back-end/expressjs/express-routers',
-  component: ComponentCreator('/docs/back-end/expressjs/express-routers'),
+  path: '/docs/Bash/Bash Scripting',
+  component: ComponentCreator('/docs/Bash/Bash Scripting'),
   exact: true,
   
 },
 {
-  path: '/docs/back-end/expressjs/express-routes',
-  component: ComponentCreator('/docs/back-end/expressjs/express-routes'),
+  path: '/docs/back-end/ExpressJS/express-routers',
+  component: ComponentCreator('/docs/back-end/ExpressJS/express-routers'),
   exact: true,
   
 },
 {
-  path: '/docs/css/adva/box-method',
-  component: ComponentCreator('/docs/css/adva/box-method'),
-  exact: true,
-  
-},
-{
-  path: '/docs/css/adva/colors',
-  component: ComponentCreator('/docs/css/adva/colors'),
-  exact: true,
-  
-},
-{
-  path: '/docs/css/adva/display-and-positioning',
-  component: ComponentCreator('/docs/css/adva/display-and-positioning'),
+  path: '/docs/back-end/ExpressJS/express-routes',
+  component: ComponentCreator('/docs/back-end/ExpressJS/express-routes'),
   exact: true,
   
 },
@@ -94,14 +82,8 @@ export default [
   
 },
 {
-  path: '/docs/css/adva/typography',
-  component: ComponentCreator('/docs/css/adva/typography'),
-  exact: true,
-  
-},
-{
-  path: '/docs/css/fund/syntax-and-tips',
-  component: ComponentCreator('/docs/css/fund/syntax-and-tips'),
+  path: '/docs/css/fund/css',
+  component: ComponentCreator('/docs/css/fund/css'),
   exact: true,
   
 },
@@ -126,18 +108,6 @@ export default [
 {
   path: '/docs/html/html-tables',
   component: ComponentCreator('/docs/html/html-tables'),
-  exact: true,
-  
-},
-{
-  path: '/docs/js/Bash/Bash Scripting',
-  component: ComponentCreator('/docs/js/Bash/Bash Scripting'),
-  exact: true,
-  
-},
-{
-  path: '/docs/js/JS',
-  component: ComponentCreator('/docs/js/JS'),
   exact: true,
   
 },
@@ -196,32 +166,32 @@ export default [
   
 },
 {
-  path: '/docs/js/fund/conditionals',
-  component: ComponentCreator('/docs/js/fund/conditionals'),
+  path: '/docs/js/fund/js_cond',
+  component: ComponentCreator('/docs/js/fund/js_cond'),
   exact: true,
   
 },
 {
-  path: '/docs/js/fund/functions',
-  component: ComponentCreator('/docs/js/fund/functions'),
+  path: '/docs/js/fund/js_func',
+  component: ComponentCreator('/docs/js/fund/js_func'),
   exact: true,
   
 },
 {
-  path: '/docs/js/fund/getting-started',
-  component: ComponentCreator('/docs/js/fund/getting-started'),
+  path: '/docs/js/fund/js_start',
+  component: ComponentCreator('/docs/js/fund/js_start'),
   exact: true,
   
 },
 {
-  path: '/docs/js/fund/variables',
-  component: ComponentCreator('/docs/js/fund/variables'),
+  path: '/docs/js/fund/js_var',
+  component: ComponentCreator('/docs/js/fund/js_var'),
   exact: true,
   
 },
 {
-  path: '/docs/js/tech/arrays',
-  component: ComponentCreator('/docs/js/tech/arrays'),
+  path: '/docs/js/js_freecode',
+  component: ComponentCreator('/docs/js/js_freecode'),
   exact: true,
   
 },
@@ -234,12 +204,6 @@ export default [
 {
   path: '/docs/js/tech/loops',
   component: ComponentCreator('/docs/js/tech/loops'),
-  exact: true,
-  
-},
-{
-  path: '/docs/js/tech/objects',
-  component: ComponentCreator('/docs/js/tech/objects'),
   exact: true,
   
 },

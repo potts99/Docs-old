@@ -1,7 +1,7 @@
 {
-  "id": "css/fund/syntax-and-tips",
-  "title": "syntax-and-tips",
-  "description": "# Syntax and tips",
+  "id": "css/fund/css",
+  "title": "CSS syntax",
+  "description": "## Synatx and their meaning",
   "source": "@site/docs/css/fund/syntax-and-tips.md",
-  "permalink": "/docs/css/fund/syntax-and-tips"
+  "permalink": "/docs/css/fund/css"
 }
