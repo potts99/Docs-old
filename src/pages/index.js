@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactDom from 'react-dom';
 import classnames from 'classnames';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
@@ -62,11 +63,11 @@ function Feature({imageUrl, title, description, button}) {
 function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
-  const { hide } = cogoToast.info('Welcome, please bare in mind this is currently in testing', {
+  if (typeof window != 'undefined') {const { hide } = cogoToast.info('Welcome, please bare in mind this is currently in testing', {
     onClick: () => {
       hide();
     },
-  });
+  });}
   return (
     <Layout
       title={`${siteConfig.title}`}
