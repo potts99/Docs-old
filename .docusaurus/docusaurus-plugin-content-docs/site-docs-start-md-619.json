@@ -3,5 +3,10 @@
   "title": "Getting started with Discite Docs",
   "description": "",
   "source": "@site/docs\\start.md",
-  "permalink": "/docs/start"
+  "permalink": "/docs/start",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Style Guide",
+    "permalink": "/docs/style"
+  }
 }

@@ -3,6 +3,17 @@
     "someSidebar": [
       {
         "type": "category",
+        "label": "Contents",
+        "items": [
+          {
+            "type": "link",
+            "label": "Getting started with Discite Docs",
+            "href": "/docs/start"
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "Docusaurus",
         "items": [
           {
@@ -57,6 +68,32 @@
       },
       {
         "type": "category",
+        "label": "ReactJS",
+        "items": [
+          {
+            "type": "link",
+            "label": "JSX in react",
+            "href": "/docs/Reactjs/jsx"
+          },
+          {
+            "type": "link",
+            "label": "Components in React.JS()",
+            "href": "/docs/Reactjs/components"
+          },
+          {
+            "type": "link",
+            "label": "Props in react",
+            "href": "/docs/Reactjs/props"
+          },
+          {
+            "type": "link",
+            "label": "State in react",
+            "href": "/docs/Reactjs/state"
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "JavaScript",
         "items": []
       },
@@ -68,11 +105,16 @@
     ]
   },
   "permalinkToSidebar": {
+    "/docs/Reactjs/components": "someSidebar",
+    "/docs/Reactjs/jsx": "someSidebar",
+    "/docs/Reactjs/props": "someSidebar",
+    "/docs/Reactjs/state": "someSidebar",
     "/docs/gulp/gulp": "someSidebar",
     "/docs/html/html-forms": "someSidebar",
     "/docs/html/html-fund": "someSidebar",
     "/docs/html/html-tables": "someSidebar",
     "/docs/mdx": "someSidebar",
+    "/docs/start": "someSidebar",
     "/docs/style": "someSidebar"
   }
 }

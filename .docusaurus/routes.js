@@ -58,8 +58,32 @@ export default [
   
 },
 {
-  path: '/docs/back-end/ExpressJS/express-routers',
-  component: ComponentCreator('/docs/back-end/ExpressJS/express-routers'),
+  path: '/docs/Reactjs/components',
+  component: ComponentCreator('/docs/Reactjs/components'),
+  exact: true,
+  
+},
+{
+  path: '/docs/Reactjs/jsx',
+  component: ComponentCreator('/docs/Reactjs/jsx'),
+  exact: true,
+  
+},
+{
+  path: '/docs/Reactjs/props',
+  component: ComponentCreator('/docs/Reactjs/props'),
+  exact: true,
+  
+},
+{
+  path: '/docs/Reactjs/state',
+  component: ComponentCreator('/docs/Reactjs/state'),
+  exact: true,
+  
+},
+{
+  path: '/docs/back-end/expressjs/express-routers',
+  component: ComponentCreator('/docs/back-end/expressjs/express-routers'),
   exact: true,
   
 },
