@@ -8,5 +8,9 @@
   "previous": {
     "title": "HTML forms",
     "permalink": "/docs/html/html-forms"
+  },
+  "next": {
+    "title": "JSX in react",
+    "permalink": "/docs/Reactjs/jsx"
   }
 }

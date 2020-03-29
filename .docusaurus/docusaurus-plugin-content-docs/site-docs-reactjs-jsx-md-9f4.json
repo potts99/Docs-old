@@ -1,0 +1,16 @@
+{
+  "id": "Reactjs/jsx",
+  "title": "JSX in react",
+  "description": "Jsx is javascript that can make use of HTML\r",
+  "source": "@site/docs\\Reactjs\\jsx.md",
+  "permalink": "/docs/Reactjs/jsx",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "HTML Tables",
+    "permalink": "/docs/html/html-tables"
+  },
+  "next": {
+    "title": "Components in React.JS()",
+    "permalink": "/docs/Reactjs/components"
+  }
+}

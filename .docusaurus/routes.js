@@ -58,6 +58,18 @@ export default [
   
 },
 {
+  path: '/docs/Reactjs/components',
+  component: ComponentCreator('/docs/Reactjs/components'),
+  exact: true,
+  
+},
+{
+  path: '/docs/Reactjs/jsx',
+  component: ComponentCreator('/docs/Reactjs/jsx'),
+  exact: true,
+  
+},
+{
   path: '/docs/back-end/expressjs/express-routers',
   component: ComponentCreator('/docs/back-end/expressjs/express-routers'),
   exact: true,
