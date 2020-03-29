@@ -12,3 +12,4 @@ React components will often need dynamic information in order to render. For exa
 There are two ways for a component to get dynamic information: props and state. Besides props and state, every value used in a component should always stay exactly the same.
 
 You just spent a long lesson learning about props. Now it’s time to learn about state. props and state are all that you need to set up an ecosystem of interacting React components.
+

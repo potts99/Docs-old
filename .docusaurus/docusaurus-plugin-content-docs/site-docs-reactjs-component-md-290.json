@@ -8,5 +8,9 @@
   "previous": {
     "title": "JSX in react",
     "permalink": "/docs/Reactjs/jsx"
+  },
+  "next": {
+    "title": "Props in react",
+    "permalink": "/docs/Reactjs/props"
   }
 }

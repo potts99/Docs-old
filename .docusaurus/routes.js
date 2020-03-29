@@ -70,6 +70,18 @@ export default [
   
 },
 {
+  path: '/docs/Reactjs/props',
+  component: ComponentCreator('/docs/Reactjs/props'),
+  exact: true,
+  
+},
+{
+  path: '/docs/Reactjs/state',
+  component: ComponentCreator('/docs/Reactjs/state'),
+  exact: true,
+  
+},
+{
   path: '/docs/back-end/expressjs/express-routers',
   component: ComponentCreator('/docs/back-end/expressjs/express-routers'),
   exact: true,

@@ -1,0 +1,12 @@
+{
+  "id": "Reactjs/state",
+  "title": "State in react",
+  "description": "## Want to learn about dynamic infomation in React?\r",
+  "source": "@site/docs\\Reactjs\\state.md",
+  "permalink": "/docs/Reactjs/state",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Props in react",
+    "permalink": "/docs/Reactjs/props"
+  }
+}
