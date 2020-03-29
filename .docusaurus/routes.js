@@ -82,8 +82,8 @@ export default [
   
 },
 {
-  path: '/docs/back-end/expressjs/express-routers',
-  component: ComponentCreator('/docs/back-end/expressjs/express-routers'),
+  path: '/docs/back-end/ExpressJS/express-routers',
+  component: ComponentCreator('/docs/back-end/ExpressJS/express-routers'),
   exact: true,
   
 },
@@ -240,6 +240,18 @@ export default [
 {
   path: '/docs/mdx',
   component: ComponentCreator('/docs/mdx'),
+  exact: true,
+  
+},
+{
+  path: '/docs/nodejs/node',
+  component: ComponentCreator('/docs/nodejs/node'),
+  exact: true,
+  
+},
+{
+  path: '/docs/nodejs/npm',
+  component: ComponentCreator('/docs/nodejs/npm'),
   exact: true,
   
 },

@@ -6,11 +6,7 @@
   "permalink": "/docs/gulp/gulp",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "Powered by MDX",
-    "permalink": "/docs/mdx"
-  },
-  "next": {
-    "title": "Fundamentals of HTML",
-    "permalink": "/docs/html/html-fund"
+    "title": "Introduction to the Managing Packages with npm",
+    "permalink": "/docs/nodejs/npm"
   }
 }

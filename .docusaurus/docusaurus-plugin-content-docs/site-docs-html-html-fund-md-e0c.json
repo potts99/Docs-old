@@ -6,8 +6,8 @@
   "permalink": "/docs/html/html-fund",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "Using Gulp.js to automate",
-    "permalink": "/docs/gulp/gulp"
+    "title": "Powered by MDX",
+    "permalink": "/docs/mdx"
   },
   "next": {
     "title": "HTML forms",

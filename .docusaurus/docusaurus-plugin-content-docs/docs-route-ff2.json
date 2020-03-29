@@ -20,28 +20,11 @@
             "type": "link",
             "label": "Style Guide",
             "href": "/docs/style"
-          }
-        ]
-      },
-      {
-        "type": "category",
-        "label": "Features",
-        "items": [
+          },
           {
             "type": "link",
             "label": "Powered by MDX",
             "href": "/docs/mdx"
-          }
-        ]
-      },
-      {
-        "type": "category",
-        "label": "Tools",
-        "items": [
-          {
-            "type": "link",
-            "label": "Using Gulp.js to automate",
-            "href": "/docs/gulp/gulp"
           }
         ]
       },
@@ -94,6 +77,17 @@
       },
       {
         "type": "category",
+        "label": "NodeJS",
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction to basic Node and ExporessJS",
+            "href": "/docs/nodejs/node"
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "JavaScript",
         "items": []
       },
@@ -101,6 +95,28 @@
         "type": "category",
         "label": "Css",
         "items": []
+      },
+      {
+        "type": "category",
+        "label": "Microservices",
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction to the Managing Packages with npm",
+            "href": "/docs/nodejs/npm"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Tools",
+        "items": [
+          {
+            "type": "link",
+            "label": "Using Gulp.js to automate",
+            "href": "/docs/gulp/gulp"
+          }
+        ]
       }
     ]
   },
@@ -114,6 +130,8 @@
     "/docs/html/html-fund": "someSidebar",
     "/docs/html/html-tables": "someSidebar",
     "/docs/mdx": "someSidebar",
+    "/docs/nodejs/node": "someSidebar",
+    "/docs/nodejs/npm": "someSidebar",
     "/docs/start": "someSidebar",
     "/docs/style": "someSidebar"
   }

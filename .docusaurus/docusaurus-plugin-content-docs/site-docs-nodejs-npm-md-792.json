@@ -1,0 +1,16 @@
+{
+  "id": "nodejs/npm",
+  "title": "Introduction to the Managing Packages with npm",
+  "description": "The Node Package Manager (npm) is a command-line tool used by developers to share and control modules (or packages) of JavaScript code written for use with Node.js.",
+  "source": "@site/docs/nodejs/npm.md",
+  "permalink": "/docs/nodejs/npm",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Introduction to basic Node and ExporessJS",
+    "permalink": "/docs/nodejs/node"
+  },
+  "next": {
+    "title": "Using Gulp.js to automate",
+    "permalink": "/docs/gulp/gulp"
+  }
+}

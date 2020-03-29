@@ -1,0 +1,16 @@
+{
+  "id": "Reactjs/props",
+  "title": "Props in react",
+  "description": "## Access a Component's props",
+  "source": "@site/docs/Reactjs/props.md",
+  "permalink": "/docs/Reactjs/props",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Components in React.JS()",
+    "permalink": "/docs/Reactjs/components"
+  },
+  "next": {
+    "title": "State in react",
+    "permalink": "/docs/Reactjs/state"
+  }
+}

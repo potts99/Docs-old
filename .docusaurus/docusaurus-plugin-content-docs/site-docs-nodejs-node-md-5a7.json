@@ -1,0 +1,16 @@
+{
+  "id": "nodejs/node",
+  "title": "Introduction to basic Node and ExporessJS",
+  "description": "Node.js is a JavaScript runtime that allows developers to write backend (server-side) programs in JavaScript. Node.js comes with a handful of built-in modules - small, independent programs - that help facilitate this purpose. Some of the core modules include:",
+  "source": "@site/docs/nodejs/node.md",
+  "permalink": "/docs/nodejs/node",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "State in react",
+    "permalink": "/docs/Reactjs/state"
+  },
+  "next": {
+    "title": "Introduction to the Managing Packages with npm",
+    "permalink": "/docs/nodejs/npm"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Reactjs/components",
+  "title": "Components in React.JS()",
+  "description": "React applications are made out of components.",
+  "source": "@site/docs/Reactjs/component.md",
+  "permalink": "/docs/Reactjs/components",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "JSX in react",
+    "permalink": "/docs/Reactjs/jsx"
+  },
+  "next": {
+    "title": "Props in react",
+    "permalink": "/docs/Reactjs/props"
+  }
+}
