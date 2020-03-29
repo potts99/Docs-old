@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDom from 'react-dom';
 import classnames from 'classnames';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
